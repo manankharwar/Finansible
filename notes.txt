@@ -1,0 +1,60 @@
+this is getting worst. Accessibility: using other people's computer no possible becasue fo two factor authentication now.
+Digital devices have caused soo many things. Technophobia, are causes 
+starting rom a problem stateent , potential user who is stuck, being emphatetic. I dont have any silver bullets. 
+
+here are a lot of things that causes it. Super good. Solvng little problems from this big problem.  
+Biggest piece of advice: there is a lot of things I didn;t plan. I encourage everybody where you can get everything right done and here's what I'm ging for a next 5 years. Thinking small, and thinking what's gonna help me grow and how do you break big problem into smaller problems. 
+
+Create a solution that can be adopted by scotiabank. accessibility with bank and digitization how do you solve it?
+
+
+CBC link talks about the digital divide holding back the indiginous communities and canada's economy. 
+
+age and buzzy words, we can help older people who doens;t have anything bizzare happening can be solved. 
+
+
+Simple Banking app. 
+Right, I just wanna know if this is what we should expect rather if we are deviating from our main problem statement, or no. 
+
+Our main goal/idea is have the banking information accessible to all age group. We have often seen that whenever we open any there are so many jargons, umm banking terms and phrases that almost 90% of people are not aware about. I mean including me like what's amortization, or what's affidavit. So, what we came up was kind of a Lite app that would have amazing User expereince, kinda really easy to navigate plus people who live in rural areas, or the persona we build of people is older people who don't have a great grasp of technology can benfit from this. 
+
+We plan on adding some accessibility features that could be beneficial + it's kinda a way for financial literacy as well. So, we have combine educational aspect + the accessibility aspect into the application.
+
+GBM: team sub team
+uer expeiev 
+estimation, witha  team , whoa ae rh peole we need, authorizatio,PII are veing ,  being aligned wuth user. 
+
+Using graphics, for better understanding data. If ever coded, we will be using MERN stack. 
+
+We have secifically tried to have more people sign in using the cardnumber because Security codes aren’t stored in any database once the transaction has been authorized. This measure ensures that the card numbers can’t be misused if the ScotiaBank’s payment records are hacked.
+ for graphs, we will be integratting with Java as it is super light + has amazing graphing functionality for our app. 
+saving the bank statement. 
+ML map out residence.
+
+Awesome! Here we are. Hi judges! We have primarily used adobe XD for our prototpying tool for user expereince as well as for interaction designing. 
+
+This is how our wireframe looks like. Quickly gonna start off with our preview. 
+
+Since this is a lite version of the already exisitng scotiabank mobile application, we have tried to narrow it down to our target audience which is older people. So our entire application is focused to make sure it is
+easy to navigate for new users. It's unlike any project management application where most of the time you spend localizing on finding certain features. A super straight forward app.
+
+Before I start, the idea is that I'll be showing you the aspect of our application, the implementation part and beyond the hackathon scope of this application. 
+
+All the minute details that you see for example why do we have a black background, or why do we have graphics can be answered by the end of our presentation. 
+
+Alright! The first thing we see is the login page. It's not a generic login page, Now something interesting that we plan on doing with the login page is having an additonal functioanlity of logging in with a cardnumber. why? We have secifically tried to have more people sign in using the cardnumber because the generalized way a secure OTT software works is that the Security codes aren’t stored in any database once the login has been authorized. This measure ensures that the card numbers can’t be misused if the ScotiaBank’s payment records are being hacked. 
+Simultanoeuly we also have the sign Up and login option as well. But we highly encourage people to go for more convinient options. An application requires user to register an account that will create entries in blockchain as well as it will create private public key pairs that can be used to access data. Also the block enties will be replicated on all nodes and will be secured with encryption. If application is using private keys to access the data, only then data is readable.
+
+Awesome! This is our main dashboard. Our database is super awesome. We have steve martin's account info. that's great. 
+
+The first part is the pay bills section. This is a one stop shop for all the infos regarding the account a person holds. We have used a ton of graphics here. Th tech implementation we have about building graphics will be via Java. Java has some amazing visualization libraires XChart, jFreeChart just to name a few that can be easily applied here. Why Java, super light, low latency as well as great documentation. 
+
+One way is to build our app using React with Java. In the development phase, we can run React and Java on separate ports. The interaction between these two happens with proxying all the calls to API. In the production phase, we can easily build the React app and put all the assets in the build folder and load it with the java code.
+
+Next up we have is viewing bank statements. The technology implementation will be blockchain. We will eb storing the info .....
+
+Plus we also have the additional functionality of export feature which underlines the fact that they can easily have a soft copy stored on their phone as well. 
+
+Next up we have check deposits. Again super important, can't stress enough, I can't even count on fingers how many times my grandfather has told me to go the bank, and deposit the check. Here comes the solution. the tech implementation is by using smart contracts. A great way to avoid any fraudulacies. They eliminate the risk of manipuation of third parties plus there are no intermediaries to confirm the agreement. The ownership is full within the person depositing the check.
+
+And finally we have the navigating part, it is over duty/ 
